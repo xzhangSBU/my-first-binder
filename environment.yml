@@ -1,0 +1,8 @@
+name: blast-test
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - biopython
+  - blast>=2.7.1
