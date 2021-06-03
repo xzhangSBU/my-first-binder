@@ -7,3 +7,4 @@ dependencies:
   - biopython
   - blast>=2.7.1
   - cd-hit
+  - ipycytoscape
