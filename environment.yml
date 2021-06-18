@@ -8,3 +8,4 @@ dependencies:
   - blast>=2.7.1
   - cd-hit>=4.8.1
   - ipycytoscape
+  - matplotlib
