@@ -1,4 +1,4 @@
-name: blast-test
+name: big-data
 channels:
   - conda-forge
   - bioconda
@@ -9,4 +9,4 @@ dependencies:
   - cd-hit>=4.8.1
   - ipycytoscape
   - matplotlib
-  -clustalo
+  - clustalo
